@@ -3,7 +3,7 @@ QT       += core gui opengl
 folder_01.source = qml/david
 folder_01.target = qml
 DEPLOYMENTFOLDERS = folder_01
-
+#He editat el projecte
 # Additional import path used to resolve QML modules in Creator's code model
 QML_IMPORT_PATH =
 
